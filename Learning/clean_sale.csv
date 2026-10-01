@@ -1,0 +1,9 @@
+id,customer,product,quantity,price
+101,Abel,Laptop,2,800.0
+102,Sara,Phone,3,500.0
+103,John,Laptop,1,800.0
+104,Abel,Mouse,5,25.0
+105,Sara,Keyboard,2,50.0
+108,Abel,Laptop,1,800.0
+110,Hana,Desk,2,150.0
+111,Sara,Phone,1,500.0

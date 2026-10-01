@@ -1,0 +1,5 @@
+id,customer,product,quantity,price,reason
+106,Mike,Monitor,2,,Missing Data
+107,David,Chair,three,100,Missing Data
+109,,Phone,2,500.0,Empty Customer
+111,Sara,Phone,1,500.0,Duplicated Data
